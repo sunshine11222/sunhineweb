@@ -1,0 +1,481 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Header styles */
+header {
+    background: #ffbb00; /* Blue background */
+    color: #fff; /* White text */
+    padding: 20px 0;
+    text-align: center;
+}
+
+/* Navigation styles */
+nav {
+    margin: 20px 0;
+}
+
+nav ul {
+    list-style: none; /* Remove bullet points */
+    padding: 0;
+}
+
+nav ul li {
+    display: inline; /* Display list items in a line */
+    margin: 0 15px; /* Space between items */
+}
+
+nav ul li a {
+    color: #ffffff; /* White text for links */
+    text-decoration: none; /* Remove underline */
+    font-weight: bold; /* Bold text */
+    transition: color 0.3s; /* Smooth transition for hover effect */
+}
+
+nav ul li a:hover {
+    color: #FFD700; /* Change color on hover */
+}
+
+/* Main content styles */
+main {
+    padding: 20px;
+    max-width: 800px; /* Limit the width of the main content */
+    margin: auto; /* Center the main content */
+    background: #0f0046; /* White background for main content */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+/* Section styles */
+section {
+    margin-bottom: 20px; /* Space between sections */
+    padding: 15px;
+    border: 1px solid #ccc; /* Light border */
+    border-radius: 5px; /* Rounded corners */
+}
+
+/* Footer styles */
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #f4f4f4; /* Light gray background */
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top: 20px; /* Space above footer */
+}/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4; /* Light gray background */
+    color: #333; /* Dark text color */
+}
+
+/* Header styles */
+header {
+    background: #000933; /* Blue background */
+    color: #fff; /* White text */
+    padding: 20px 0;
+    text-align: center;
+}
+
+/* Navigation styles */
+nav {
+    margin: 20px 0;
+}
+
+nav ul {
+    list-style: none; /* Remove bullet points */
+    padding: 0;
+}
+
+nav ul li {
+    display: inline; /* Display list items in a line */
+    margin: 0 15px; /* Space between items */
+}
+
+nav ul li a {
+    color: #fff; /* White text for links */
+    text-decoration: none; /* Remove underline */
+    font-weight: bold; /* Bold text */
+    transition: color 0.3s; /* Smooth transition for hover effect */
+}
+
+nav ul li a:hover {
+    color: #FFD700; /* Change color on hover */
+}
+
+/* Main content styles */
+main {
+    padding: 20px;
+    max-width: 800px; /* Limit the width of the main content */
+    margin: auto; /* Center the main content */
+    background: #01004b; /* White background for main content */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+/* About SMCC section styles */
+#about {
+    margin-bottom: 20px; /* Space below the section */
+    padding: 15px;
+    border: 1px solid #ffae00; /* Light border */
+    border-radius: 5px; /* Rounded corners */
+    background-color: #010029; /* Light gray background for the section */
+}
+
+/* About SMCC heading styles */
+#about h2 {
+    color: #ffe600; /* Blue color for the heading */
+    margin-bottom: 10px; /* Space below the heading */
+}
+
+/* Footer styles */
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #f4f4f4; /* Light gray background */
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top: 20px; /* Space above footer */
+}/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4; /* Light gray background */
+    color: #333; /* Dark text color */
+}
+
+/* Header styles */
+header {
+    background: #ffbb00; /* Blue background */
+    color: #fff; /* White text */
+    padding: 20px 0;
+    text-align: center;
+}
+
+/* Navigation styles */
+nav {
+    margin: 20px 0;
+}
+
+nav ul {
+    list-style: none; /* Remove bullet points */
+    padding: 0;
+}
+
+nav ul li {
+    display: inline; /* Display list items in a line */
+    margin: 0 15px; /* Space between items */
+}
+
+nav ul li a {
+    color: #ffffff; /* White text for links */
+    text-decoration: none; /* Remove underline */
+    font-weight: bold; /* Bold text */
+    transition: color 0.3s; /* Smooth transition for hover effect */
+}
+
+nav ul li a:hover {
+    color: #FFD700; /* Change color on hover */
+}
+
+/* Main content styles */
+main {
+    padding: 20px;
+    max-width: 800px; /* Limit the width of the main content */
+    margin: auto; /* Center the main content */
+    background: #0b003a; /* White background for main content */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+/* Home section styles */
+#home {
+    margin-bottom: 20px; /* Space below the section */
+    padding: 15px;
+}
+
+/* Home heading styles */
+#home h2 {
+    color: #ffc400; /* Blue color for the heading */
+    margin-bottom: 10px; /* Space below the heading */
+}
+
+/* Footer styles */
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #f4f4f4; 
+}/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4; /* Light gray background */
+    color: #333; /* Dark text color */
+}
+
+/* Header styles */
+header {
+    background: #007BFF; /* Blue background */
+    color: #fff; /* White text */
+    padding: 20px 0;
+    text-align: center;
+}
+
+/* Navigation styles */
+nav {
+    margin: 20px 0;
+}
+
+nav ul {
+    list-style: none; /* Remove bullet points */
+    padding: 0;
+}
+
+nav ul li {
+    display: inline; /* Display list items in a line */
+    margin: 0 15px; /* Space between items */
+}
+
+nav ul li a {
+    color: #fff; /* White text for links */
+    text-decoration: none; /* Remove underline */
+    font-weight: bold; /* Bold text */
+    transition: color 0.3s; /* Smooth transition for hover effect */
+}
+
+nav ul li a:hover {
+    color: #FFD700; /* Change color on hover */
+}
+
+/* Main content styles */
+main {
+    padding: 20px;
+    max-width: 800px; /* Limit the width of the main content */
+    margin: auto; /* Center the main content */
+    background: #010029; /* White background for main content */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+/* Courses Offered section styles */
+#courses {
+    margin-bottom: 20px; /* Space below the section */
+    padding: 15px;
+}
+
+/* Courses Offered heading styles */
+#courses h2 {
+    color: #ffd900; /* Blue color for the heading */
+    margin-bottom: 10px; /* Space below the heading */
+}
+
+/* List styles */
+#courses ul {
+    list-style-type: disc; /* Use disc bullet points */
+    padding-left: 20px; /* Indent the list */
+}
+
+/* Footer styles */
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #f4f4f4; /* Light gray background */
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top: 20px; /* Space above footer */
+}/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4; /* Light gray background */
+    color: #333; /* Dark text color */
+}
+
+/* Header styles */
+header {
+    background: #ffffff; /* Blue background */
+    color: #fff; /* White text */
+    padding: 20px 0;
+    text-align: center;
+}
+
+/* Navigation styles */
+nav {
+    margin: 20px 0;
+}
+
+nav ul {
+    list-style: none; /* Remove bullet points */
+    padding: 0;
+}
+
+nav ul li {
+    display: inline; /* Display list items in a line */
+    margin: 0 15px; /* Space between items */
+}
+
+nav ul li a {
+    color: #fff; /* White text for links */
+    text-decoration: none; /* Remove underline */
+    font-weight: bold; /* Bold text */
+    transition: color 0.3s; /* Smooth transition for hover effect */
+}
+
+nav ul li a:hover {
+    color: #FFD700; /* Change color on hover */
+}
+
+/* Main content styles */
+main {
+    padding: 20px;
+    max-width: 800px; /* Limit the width of the main content */
+    margin: auto; /* Center the main content */
+    background: #070042; /* White background for main content */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+
+#services {
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+
+#services h2 {
+    color: #ffd000; 
+    margin-bottom: 10px; 
+}
+
+
+#services ul {
+    list-style-type: disc; 
+    padding-left: 20px; 
+}
+
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #f4f4f4; 
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top: 20px; 
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #ffd900; 
+    color: #ffffff; 
+}
+
+
+header {
+    background: #011570; 
+    color: #ffc400; 
+    padding: 20px 0;
+    text-align: center;
+}
+
+
+nav {
+    margin: 20px 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline; 
+    margin: 0 15px; 
+}
+
+nav ul li a {
+    color: #ffbb00;
+    text-decoration: none;
+    font-weight: bold; 
+    transition: color 0.3s; 
+}
+
+nav ul li a:hover {
+    color: #FFD700; 
+}
+
+main {
+    padding: 20px;
+    max-width: 800px; 
+    margin: auto;
+    background: #020025; 
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); 
+}
+
+
+#contact {
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+
+#contact h2 {
+    color: #ffd000;
+    margin-bottom: 10px; 
+}
+
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #f4f4f4; 
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top: 20px; 
+}
